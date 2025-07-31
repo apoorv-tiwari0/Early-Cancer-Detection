@@ -1,0 +1,2 @@
+epoch,cancer_type_accuracy,cancer_type_loss,is_cancerous_accuracy,is_cancerous_loss,is_cancerous_precision,is_cancerous_recall,loss,val_cancer_type_accuracy,val_cancer_type_loss,val_is_cancerous_accuracy,val_is_cancerous_loss,val_is_cancerous_precision,val_is_cancerous_recall,val_loss
+0,0.20558927953243256,2.0323171615600586,0.501160740852356,0.7002812623977661,0.5019900798797607,0.5081289410591125,2.732605218887329,0.2231428623199463,2.0006959438323975,0.49657142162323,0.693205714225769,0.49657142162323,1.0,2.6938998699188232
